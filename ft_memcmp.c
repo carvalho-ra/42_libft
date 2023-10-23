@@ -6,7 +6,7 @@
 /*   By: rcarvalh <rcarvalh@student.42.rio>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/20 13:10:20 by rcarvalh          #+#    #+#             */
-/*   Updated: 2022/07/01 11:53:48 by rcarvalh         ###   ########.fr       */
+/*   Updated: 2023/10/23 14:07:58 by rcarvalh         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,7 +24,7 @@ int	ft_memcmp(const void *s1, const void *s2, size_t n)
 	while (counter < n)
 	{
 		if (word1[counter] != word2[counter])
-		{	
+		{
 			return (word1[counter] - word2[counter]);
 		}
 		counter++;
