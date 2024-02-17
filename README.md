@@ -1,5 +1,4 @@
-# Cabeçalho 1
-Libft
+# Libft
 
 Your very first own library
 
