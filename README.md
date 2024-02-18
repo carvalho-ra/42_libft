@@ -38,17 +38,6 @@ This project aims to reimplement several functions from the C standard library, 
 [ft_putstr_fd](https://github.com/carvalho-ra/libft/blob/main/ft_putstr_fd.c)	- output a string to a file descriptor.  
 [ft_putendl_fd](https://github.com/carvalho-ra/libft/blob/main/ft_putendl_fd.c)	- output a string to a file descriptor, followed by a new line.  
 [ft_putnbr_fd](https://github.com/carvalho-ra/libft/blob/main/ft_putnbr_fd.c)	- output a number to a file descriptor.  
-  
-# TODO add linked list functions
-
-    ft_lstnew	- creates a new list element.
-    ft_lstadd_front	- adds an element at the beginning of a list.
-    ft_lstsize	- counts the number of elements in a list.
-    ft_lstlast	- returns the last element of the list.
-    ft_lstadd_back	- adds an element at the end of a list.
-    ft_lstclear	- deletes and free list.
-    ft_lstiter	- applies a function to each element of a list.
-    ft_lstmap	- applies a function to each element of a list.
 
 # Results
 
