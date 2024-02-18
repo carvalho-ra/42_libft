@@ -1,8 +1,6 @@
 # Libft
 
-Your very first own library
-
-This project is about coding a C library.
+This project aims to reimplement several functions from the C standard library, along with additional utility functions that students will utilize throughout the entire course.
 
 ## Functions
 
