@@ -6,14 +6,14 @@ This project aims to reimplement several functions from the C standard library, 
 
 ft_isalpha	- checks for an alphabetic character.  
 ft_isdigit	- checks for a digit (0 through 9).  
-ft_isalnum	- checks for an alphanumeric character.  
+[ft_isalnum](https://github.com/carvalho-ra/libft/blob/main/ft_isalnum.c)	- checks for an alphanumeric character.  
 ft_isascii	- checks whether c fits into the ASCII character set.  
 ft_isprint	- checks for any printable character.  
 ft_toupper	- convert char to uppercase.  
 ft_tolower	- convert char to lowercase.  
 ft_memset	- fill memory with a constant byte.  
 ft_strlen	- calculate the length of a string.  
-ft_bzero	- zero a byte string.  
+[ft_bzero](https://github.com/carvalho-ra/libft/blob/main/ft_bzero.c)	- zero a byte string.  
 ft_memcpy	- copy memory area.  
 ft_memmove	- copy memory area.  
 ft_strlcpy	- copy string to an specific size.  
@@ -26,7 +26,7 @@ ft_memcmp	- compare memory areas.
 ft_strnstr	- locate a substring in a string.  
 ft_strdup	- creates a dupplicate for the string passed as parameter.  
 [ft_atoi](https://github.com/carvalho-ra/libft/blob/main/ft_atoi.c)	- convert a string to an integer.  
-ft_calloc	- allocates memory and sets its bytes' values to 0.  
+[ft_calloc](https://github.com/carvalho-ra/libft/blob/main/ft_calloc.c)	- allocates memory and sets its bytes' values to 0.  
 ft_substr	- returns a substring from a string.  
 ft_strjoin	- concatenates two strings.  
 ft_strtrim	- trims the beginning and end of string with specific set of chars.  
