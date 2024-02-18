@@ -25,7 +25,7 @@ ft_memchr	- scan memory for a character.
 ft_memcmp	- compare memory areas.  
 ft_strnstr	- locate a substring in a string.  
 ft_strdup	- creates a dupplicate for the string passed as parameter.  
-ft_atoi	- convert a string to an integer.  
+[ft_atoi](https://github.com/carvalho-ra/libft/blob/main/ft_atoi.c)	- convert a string to an integer.  
 ft_calloc	- allocates memory and sets its bytes' values to 0.  
 ft_substr	- returns a substring from a string.  
 ft_strjoin	- concatenates two strings.  
