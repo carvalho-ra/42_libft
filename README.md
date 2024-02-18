@@ -2,12 +2,10 @@
 
 This project aims to reimplement several functions from the C standard library, along with additional utility functions that students will utilize throughout the entire course.
 
-## Functions
+## Reimplemented functions
 
 ft_isalpha	- checks for an alphabetic character.
-
 ft_isdigit	- checks for a digit (0 through 9).
-
 ft_isalnum	- checks for an alphanumeric character.
 
 ft_isascii	- checks whether c fits into the ASCII character set.
