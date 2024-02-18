@@ -7,6 +7,7 @@ This project aims to reimplement several functions from the C standard library, 
 ### 🛠️ Usage
 
 compile the project using the provided Makefile: ```make```
+This command will generate the `libft.a` library, which contains the reimplemented functions.
 
 ### Reimplemented functions
 
