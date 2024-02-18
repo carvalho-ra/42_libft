@@ -51,4 +51,5 @@ ft_putnbr_fd	- output a number to a file descriptor.
     ft_lstmap	- applies a function to each element of a list.
 
 # Results
-![Captura de tela de 2023-08-26 13-07-04](https://github.com/carvalho-ra/libft/assets/66538173/e9affc20-a8e0-4e7b-b016-e292312b1fd8)
+
+![Captura de tela de 2024-02-17 20-57-21](https://github.com/carvalho-ra/libft/assets/66538173/563db729-8f49-46e1-ae76-3bc7c1fe767f)
