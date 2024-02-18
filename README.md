@@ -1,8 +1,14 @@
 # Libft
 
+### 💡 About the project
+
 This project aims to reimplement several functions from the C standard library, along with additional utility functions that students will utilize throughout the entire course.
 
-## Reimplemented functions
+### 🛠️ Usage
+
+compile the project using the provided Makefile: ```make```
+
+### Reimplemented functions
 
 [ft_isalpha](https://github.com/carvalho-ra/libft/blob/main/ft_isalpha.c)	- checks for an alphabetic character.  
 [ft_isdigit](https://github.com/carvalho-ra/libft/blob/main/ft_isdigit.c)	- checks for a digit (0 through 9).  
@@ -39,6 +45,5 @@ This project aims to reimplement several functions from the C standard library, 
 [ft_putendl_fd](https://github.com/carvalho-ra/libft/blob/main/ft_putendl_fd.c)	- output a string to a file descriptor, followed by a new line.  
 [ft_putnbr_fd](https://github.com/carvalho-ra/libft/blob/main/ft_putnbr_fd.c)	- output a number to a file descriptor.  
 
-# Results
-
+### 📋 Results
 ![Captura de tela de 2024-02-17 20-57-21](https://github.com/carvalho-ra/libft/assets/66538173/563db729-8f49-46e1-ae76-3bc7c1fe767f)
