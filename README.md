@@ -16,28 +16,28 @@ This project aims to reimplement several functions from the C standard library, 
 [ft_bzero](https://github.com/carvalho-ra/libft/blob/main/ft_bzero.c)	- zero a byte string.  
 [ft_memcpy](https://github.com/carvalho-ra/libft/blob/main/ft_memcpy.c) - copy memory area.  
 [ft_memmove](https://github.com/carvalho-ra/libft/blob/main/ft_memmove.c) - copy memory area.  
-[ft_toupper](https://github.com/carvalho-ra/libft/blob/main/ft_toupper.c) ft_strlcpy	- copy string to an specific size.  
-[ft_toupper](https://github.com/carvalho-ra/libft/blob/main/ft_toupper.c) ft_strlcat	- concatenate string to an specific size.  
-[ft_toupper](https://github.com/carvalho-ra/libft/blob/main/ft_toupper.c) ft_strchr	- locate character in string.  
-[ft_toupper](https://github.com/carvalho-ra/libft/blob/main/ft_toupper.c) ft_strrchr	- locate character in string.  
-[ft_toupper](https://github.com/carvalho-ra/libft/blob/main/ft_toupper.c) ft_strncmp	- compare two strings.  
-[ft_toupper](https://github.com/carvalho-ra/libft/blob/main/ft_toupper.c) ft_memchr	- scan memory for a character.  
-[ft_toupper](https://github.com/carvalho-ra/libft/blob/main/ft_toupper.c) ft_memcmp	- compare memory areas.  
-[ft_toupper](https://github.com/carvalho-ra/libft/blob/main/ft_toupper.c) ft_strnstr	- locate a substring in a string.  
-[ft_toupper](https://github.com/carvalho-ra/libft/blob/main/ft_toupper.c) ft_strdup	- creates a dupplicate for the string passed as parameter.  
+[ft_strlcpy](https://github.com/carvalho-ra/libft/blob/main/ft_strlcpy.c) - copy string to an specific size.  
+[ft_strlcat](https://github.com/carvalho-ra/libft/blob/main/ft_strlcat.c)	- concatenate string to an specific size.  
+[ft_strchr](https://github.com/carvalho-ra/libft/blob/main/ft_strchr.c)	- locate character in string.  
+[ft_strrchr](https://github.com/carvalho-ra/libft/blob/main/ft_strrchr.c)	- locate character in string.  
+[ft_strncmp](https://github.com/carvalho-ra/libft/blob/main/ft_strncmp.c)	- compare two strings.  
+[ft_memchr](https://github.com/carvalho-ra/libft/blob/main/ft_memchr.c)	- scan memory for a character.  
+[ft_memcmp](https://github.com/carvalho-ra/libft/blob/main/ft_memcmp.c)	- compare memory areas.  
+[ft_strnstr](https://github.com/carvalho-ra/libft/blob/main/ft_strnstr.c)	- locate a substring in a string.  
+[ft_strdup](https://github.com/carvalho-ra/libft/blob/main/ft_strdup.c)	- creates a dupplicate for the string passed as parameter.  
 [ft_atoi](https://github.com/carvalho-ra/libft/blob/main/ft_atoi.c)	- convert a string to an integer.  
 [ft_calloc](https://github.com/carvalho-ra/libft/blob/main/ft_calloc.c)	- allocates memory and sets its bytes' values to 0.  
-[ft_toupper](https://github.com/carvalho-ra/libft/blob/main/ft_toupper.c) ft_substr	- returns a substring from a string.  
-[ft_toupper](https://github.com/carvalho-ra/libft/blob/main/ft_toupper.c) ft_strjoin	- concatenates two strings.  
-[ft_toupper](https://github.com/carvalho-ra/libft/blob/main/ft_toupper.c) ft_strtrim	- trims the beginning and end of string with specific set of chars.  
-[ft_toupper](https://github.com/carvalho-ra/libft/blob/main/ft_toupper.c) ft_split	- splits a string using a char as parameter.  
-[ft_toupper](https://github.com/carvalho-ra/libft/blob/main/ft_toupper.c) ft_itoa	- converts a number into a string.  
-[ft_toupper](https://github.com/carvalho-ra/libft/blob/main/ft_toupper.c) ft_strmapi	- applies a function to each character of a string.  
-[ft_toupper](https://github.com/carvalho-ra/libft/blob/main/ft_toupper.c) ft_striteri	- applies a function to each character of a string.  
-[ft_toupper](https://github.com/carvalho-ra/libft/blob/main/ft_toupper.c) ft_putchar_fd	- output a char to a file descriptor.  
-[ft_toupper](https://github.com/carvalho-ra/libft/blob/main/ft_toupper.c) ft_putstr_fd	- output a string to a file descriptor.  
-[ft_toupper](https://github.com/carvalho-ra/libft/blob/main/ft_toupper.c) ft_putendl_fd	- output a string to a file descriptor, followed by a new line.  
-[ft_toupper](https://github.com/carvalho-ra/libft/blob/main/ft_toupper.c) ft_putnbr_fd	- output a number to a file descriptor.  
+[ft_substr](https://github.com/carvalho-ra/libft/blob/main/ft_substr.c)	- returns a substring from a string.  
+[ft_strjoin](https://github.com/carvalho-ra/libft/blob/main/ft_strjoin.c)	- concatenates two strings.  
+[ft_strtrim](https://github.com/carvalho-ra/libft/blob/main/ft_strtrim.c)	- trims the beginning and end of string with specific set of chars.  
+[ft_split](https://github.com/carvalho-ra/libft/blob/main/ft_split.c) - splits a string using a char as parameter.  
+[ft_itoa](https://github.com/carvalho-ra/libft/blob/main/ft_itoa.c)	- converts a number into a string.  
+[ft_strmapi](https://github.com/carvalho-ra/libft/blob/main/ft_strmapi.c)	- applies a function to each character of a string.  
+[ft_striteri](https://github.com/carvalho-ra/libft/blob/main/ft_striteri.c)	- applies a function to each character of a string.  
+[ft_putchar_fd](https://github.com/carvalho-ra/libft/blob/main/ft_putchar_fd.c)	- output a char to a file descriptor.  
+[ft_putstr_fd](https://github.com/carvalho-ra/libft/blob/main/ft_putstr_fd.c)	- output a string to a file descriptor.  
+[ft_putendl_fd](https://github.com/carvalho-ra/libft/blob/main/ft_putendl_fd.c)	- output a string to a file descriptor, followed by a new line.  
+[ft_putnbr_fd](https://github.com/carvalho-ra/libft/blob/main/ft_putnbr_fd.c)	- output a number to a file descriptor.  
   
 # TODO add linked list functions
 
