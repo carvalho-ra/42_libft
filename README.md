@@ -47,4 +47,4 @@ This command will generate the libft.a library, which contains the reimplemented
 [ft_putnbr_fd](https://github.com/carvalho-ra/libft/blob/main/ft_putnbr_fd.c)	- output a number to a file descriptor.  
 
 ### 📋 Results
-![Captura de tela de 2024-02-17 20-57-21](https://github.com/carvalho-ra/libft/assets/66538173/563db729-8f49-46e1-ae76-3bc7c1fe767f)
+![libft_img.png](libft_img.png)
